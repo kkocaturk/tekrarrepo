@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RationalNumbers">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jarlar/RationalNumbers.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
