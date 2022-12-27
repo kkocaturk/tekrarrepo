@@ -9,4 +9,5 @@ public class Constants {
 
     final public static String MSEDGE_PATH="C:/Users/betül kerim/Documents/seleniumDependencies/drivers/msedgedriver.exe";
     final public static String MSEDGE="webdriver.edge.driver";
+    //sadece ekleme
 }
